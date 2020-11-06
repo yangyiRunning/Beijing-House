@@ -130,30 +130,33 @@
 
 ### 北城
 
-- [华润置地/北京建工/首开·万象悦府](https://note.youdao.com/ynoteshare1/index.html?id=e5b224cc21ca210fe58c87c3808a219c&type=note#/)
-- 北京建工/北京住总地产/北京建工·奥森one
-- 绿城中国/世茂/中交地产·奥海明月
-- [罗顿沙河/信达地产·国子郡](https://note.youdao.com/ynoteshare1/mobile.html?id=46edd1e35c6813695c5006c63f442b6b&type=note#/)
-- 金地集团/首开/旭辉集团·公园十七区
-- [北京建工地产·建邦顺颐府](https://note.youdao.com/ynoteshare1/index.html?id=e5b224cc21ca210fe58c87c3808a219c&type=note#/)
-- [金隅/北辰·金辰府](https://note.youdao.com/ynoteshare1/index.html?id=4521778f03b12adb576d83cf77961b7d&type=note#/)
-- 招商蛇口·都会中心
+|城市方位| 开发商 | 楼盘名称 | 片区位置|
+| :---: | :---: | :---:| :---: |
+| 北城 | 华润置地/北京建工/首开 | 万象悦府 | 昌平朱辛庄 |
+| 北城 | 北京建工/北京住总地产/北京建工 | 奥森one | 昌平东小口 |
+| 北城 | 绿城中国/世茂/中交地产 | 奥海明月 | 昌平东小口 |
+| 北城 | 罗顿沙河/信达地产 | [国子郡](https://note.youdao.com/ynoteshare1/mobile.html?id=46edd1e35c6813695c5006c63f442b6b&type=note#/) | 昌平沙河高教园 |
+| 北城 | 金地集团/首开/旭辉集团 | 公园十七区 | 顺义后沙峪 |
+| 北城 | 北京建工地产 | [建邦顺颐府](https://note.youdao.com/ynoteshare1/index.html?id=e5b224cc21ca210fe58c87c3808a219c&type=note#/) | 顺义后沙峪 |
+| 北城 | 金隅/北辰 | [金辰府](https://note.youdao.com/ynoteshare1/index.html?id=4521778f03b12adb576d83cf77961b7d&type=note#/) | 昌平北七家定泗路 |
+| 北城 | 招商蛇口 | 招商都会中心 | 昌平南邵 |
 
 ### 南城
 
-- 融创·亦庄壹号
-- [招商蛇口·臻拢府](https://note.youdao.com/ynoteshare1/index.html?id=06668bce945d51c2d42630d9c57cff3b&type=note#/)
-- 中海地产·寰宇时代
-- [中国铁建地产·国际公馆](https://note.youdao.com/ynoteshare1/index.html?id=23ad0d6b28fc261d71230a6a89e18e2f&type=note#/)
-- [金融街·金悦府](https://note.youdao.com/ynoteshare1/index.html?id=bb7b9af2e8b544b2175d99d9d0a1ac2c&type=note#/)
-- [京能置业/电建地产·铭悦湾](https://note.youdao.com/ynoteshare1/index.html?id=4549b852a58db11fd81bac238df00e66&type=note#/)
-- 中骏·云景台
-- 保利地产/北京建工·和悦春风
-- 中海地产/首开/保利地产/龙湖地产·金樾和著
-- 旭辉集团·旭辉城
-- [北京经开·汀塘](https://note.youdao.com/ynoteshare1/index.html?id=9409b10108d493b5b3f217c93eb5f0b4&type=note#/)
-- [首创/远洋·禧瑞天著](https://note.youdao.com/ynoteshare1/index.html?id=71eaad4b388aeb703ee550f920edf872&type=note#/)
-- [中交地产/华润置地·橡树湾](https://note.youdao.com/ynoteshare1/index.html?id=cd612c1f9a22c32056df2085fb9acb94&type=note#/)
+|城市方位| 开发商 | 楼盘名称 | 片区位置|
+| :---: | :---: | :---:| :---: |
+| 南城 | 融创 | 融创亦庄壹号 | 亦庄路东次渠南定海园 |
+| 南城 | 招商蛇口 | [招商蛇口臻拢府](https://note.youdao.com/ynoteshare1/index.html?id=06668bce945d51c2d42630d9c57cff3b&type=note#/) | 亦庄路东次渠南定海园 |
+| 南城 | 中海地产 | 中海寰宇时代 | 大兴瀛海 |
+| 南城 | 中国铁建地产 | [中铁建国际公馆](https://note.youdao.com/ynoteshare1/index.html?id=23ad0d6b28fc261d71230a6a89e18e2f&type=note#/) | 亦庄河西 |
+| 南城 | 金融街 | [金融街金悦府](https://note.youdao.com/ynoteshare1/index.html?id=bb7b9af2e8b544b2175d99d9d0a1ac2c&type=note#/) | 大兴义和庄 |
+| 南城 | 京能置业/电建地产 | [京建铭悦湾](https://note.youdao.com/ynoteshare1/index.html?id=4549b852a58db11fd81bac238df00e66&type=note#/) | 大兴旧宫 |
+| 南城 | 中骏 | 中骏云景台 | 房山良乡 |
+| 南城 | 保利地产/北京建工 | 和悦春风 | 大兴庞各庄 |
+| 南城 | 旭辉集团 | 旭辉城 | 房山良乡 |
+| 南城 | 北京经开 | [经开汀塘](https://note.youdao.com/ynoteshare1/index.html?id=9409b10108d493b5b3f217c93eb5f0b4&type=note#/) | 亦庄路东次渠南 |
+| 南城 | 首创/远洋 | [禧瑞天著](https://note.youdao.com/ynoteshare1/index.html?id=71eaad4b388aeb703ee550f920edf872&type=note#/) | 亦庄路东次渠南 |
+| 南城 | 中交地产/华润置地 | [橡树湾](https://note.youdao.com/ynoteshare1/index.html?id=cd612c1f9a22c32056df2085fb9acb94&type=note#/) | 通州马驹桥 |
 
 ## 写在后面
 
