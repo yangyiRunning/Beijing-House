@@ -164,6 +164,7 @@
 | 南城 | 首创/远洋 | [禧瑞天著](https://note.youdao.com/ynoteshare1/index.html?id=71eaad4b388aeb703ee550f920edf872&type=note#/) | 亦庄路东次渠南 |
 | 南城 | 中交地产/华润置地 | [橡树湾](https://note.youdao.com/ynoteshare1/index.html?id=cd612c1f9a22c32056df2085fb9acb94&type=note#/) | 通州马驹桥 |
 | 南城 | 雅居乐 | [京华雅郡](https://note.youdao.com/ynoteshare1/index.html?id=c798c945680e7547dd229a5a9ef9c82b&type=note#/) | 亦庄河西 |
+| 南城 | 北京金隅 | [金隅学府](https://note.youdao.com/ynoteshare1/index.html?id=58bd2c9e77c13a54cfb822c619f4a733&type=note#/) | 亦庄河西 |
 
 ## 写在后面
 
