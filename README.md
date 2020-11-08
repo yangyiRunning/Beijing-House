@@ -163,6 +163,7 @@
 | 南城 | 北京经开 | [经开汀塘](https://note.youdao.com/ynoteshare1/index.html?id=9409b10108d493b5b3f217c93eb5f0b4&type=note#/) | 亦庄路东次渠南 |
 | 南城 | 首创/远洋 | [禧瑞天著](https://note.youdao.com/ynoteshare1/index.html?id=71eaad4b388aeb703ee550f920edf872&type=note#/) | 亦庄路东次渠南 |
 | 南城 | 中交地产/华润置地 | [橡树湾](https://note.youdao.com/ynoteshare1/index.html?id=cd612c1f9a22c32056df2085fb9acb94&type=note#/) | 通州马驹桥 |
+| 南城 | 雅居乐 | [京华雅郡](https://note.youdao.com/ynoteshare1/index.html?id=c798c945680e7547dd229a5a9ef9c82b&type=note#/) | 亦庄河西 |
 
 ## 写在后面
 
