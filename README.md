@@ -160,6 +160,7 @@
 | 南城 | 中骏 | 中骏云景台 | 房山良乡 |
 | 南城 | 保利地产/北京建工 | 和悦春风 | 大兴庞各庄 |
 | 南城 | 旭辉集团 | 旭辉城 | 房山良乡 |
+| 南城 | 中海/首开/保利/龙湖 | 金樾和著 | 房山良乡 |
 | 南城 | 北京经开 | [经开汀塘](https://note.youdao.com/ynoteshare1/index.html?id=9409b10108d493b5b3f217c93eb5f0b4&type=note#/) | 亦庄路东次渠南 |
 | 南城 | 首创/远洋 | [禧瑞天著](https://note.youdao.com/ynoteshare1/index.html?id=71eaad4b388aeb703ee550f920edf872&type=note#/) | 亦庄路东次渠南 |
 | 南城 | 中交地产/华润置地 | [橡树湾](https://note.youdao.com/ynoteshare1/index.html?id=cd612c1f9a22c32056df2085fb9acb94&type=note#/) | 通州马驹桥 |
