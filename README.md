@@ -169,6 +169,7 @@
 | 南城 | 绿城中国 | [明月听蘭](https://note.youdao.com/ynoteshare1/index.html?id=f512fb587b6419f3fb00e7a50d828f1f&type=note#/) | 通州台湖 |
 | 南城 | 万科/首开 | 城市之光 | 通州台湖 |
 | 南城 | 金茂 | 金茂悦 | 通州台湖 |
+| 南城 | 新城控股 | [新城熙红印](https://note.youdao.com/ynoteshare1/index.html?id=45d93cff303a6f8c7686e8e1d985c82d&type=note#/) | 大兴西红门 |
 
 ## 写在后面
 
